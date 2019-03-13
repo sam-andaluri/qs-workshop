@@ -1,5 +1,5 @@
 global:
-  owner: tonynv@amazon.com
+  owner: owner@amazon.com
   qsname: qs-workshop
   regions:
     - ap-southeast-1
